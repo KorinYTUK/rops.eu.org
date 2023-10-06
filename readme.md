@@ -1,4 +1,5 @@
-    ![RPS Logo](http://cdn.rogueplanetstudios.eu.org/files/logo.png)
+    ![RPS Logo](https://github.com/KorinYTUK/cdn.rogueplanetstudios.eu.org/blob/main/files/rogue_planet_studios_pixel.png)
+
 # This domain is not finished yet!
 ## please do not visit this domain untill 2024-01-01
 **thank you**
